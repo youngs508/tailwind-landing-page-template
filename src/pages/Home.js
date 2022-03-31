@@ -24,7 +24,7 @@ function Home() {
         <FeaturesBlocks />
         <Testimonials />
         <Newsletter />
-
+        <Newsletter />
       </main>
 
       {/*  Site footer */}
